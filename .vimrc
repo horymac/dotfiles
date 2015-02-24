@@ -64,9 +64,9 @@ set noswapfile
 " 改行時に入力された行の末尾に合わせて次の行のインデントを増減する
 set smartindent
 " タブ文字の表示幅
-set tabstop=2
+set tabstop=4
 " vimが挿入するインデントの幅
-set shiftwidth=2
+set shiftwidth=4
 "タブの代わりに空白文字を指定する
 set expandtab
 "変更中のファイルでも、保存しないで他のファイルを表示する
